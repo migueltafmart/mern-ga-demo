@@ -1,0 +1,28 @@
+{
+  "name": "mern-ga-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueltafmart/mern-ga-demo.git"
+  },
+  "keywords": [],
+  "author": "migueltafmart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueltafmart/mern-ga-demo/issues"
+  },
+  "homepage": "https://github.com/migueltafmart/mern-ga-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
